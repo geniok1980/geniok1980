@@ -46,6 +46,7 @@
 
 🔹 [**clawhost**](https://github.com/geniok1980/clawhost) — Платформа для одно-кликовой деплоймента OpenClaw и Hermes Agent. [→ clawhost.geniok.ru](https://clawhost.geniok.ru)
 🔹 [**rkdash**](https://github.com/geniok1980/rkdash) — Аналитическая система для Rkeeper с AI-агентами: дашборды, чат с БД, план/факт. [→ rkdash.geniok.ru](https://rkdash.geniok.ru)
+🔹 [**FreqDash**](https://github.com/geniok1980/freqwebui-free) — Multi-Bot Dashboard для Freqtrade: управление несколькими ботами, аналитика, мониторинг
 🔹 [**ai-photostudio**](https://github.com/geniok1980/ai-photostudio) — AI фотостудия: генерация фото и видео через Gemini/Veo. Turborepo, Bun, Hono.js, React + Vite
 🔹 **dashboard** — Универсальная панель управления и мониторинга
 

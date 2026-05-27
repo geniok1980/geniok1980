@@ -44,6 +44,7 @@
 
 ### 📌 Проекты
 
+🔹 [**rkdash**](https://github.com/geniok1980/rkdash) — Аналитическая система для Rkeeper с AI-агентами. [Демо](https://rkdash.geniok.ru)
 🔹 [**ai-photostudio**](https://github.com/geniok1980/ai-photostudio) — AI фотостудия на TypeScript (Turborepo, Bun, Hono.js, React + Vite)
 🔹 [**clawhost-private**](https://github.com/geniok1980/clawhost-private) — Облачная платформа управления хостингом (Hono.js, React, NeonDB)
 🔹 **dashboard** — Панель управления

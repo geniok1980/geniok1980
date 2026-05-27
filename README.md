@@ -44,10 +44,10 @@
 
 ### 📌 Проекты
 
-🔹 [**clawhost**](https://github.com/geniok1980/clawhost) — Платформа для одно-кликовой деплоймента OpenClaw и Hermes Agent. [Сайт](https://clawhost.geniok.ru)
-🔹 [**rkdash**](https://github.com/geniok1980/rkdash) — Аналитическая система для Rkeeper с AI-агентами. [Демо](https://rkdash.geniok.ru)
-🔹 [**ai-photostudio**](https://github.com/geniok1980/ai-photostudio) — AI фотостудия на TypeScript (Turborepo, Bun, Hono.js, React + Vite)
-🔹 **dashboard** — Панель управления
+🔹 [**clawhost**](https://github.com/geniok1980/clawhost) — Платформа для одно-кликовой деплоймента OpenClaw и Hermes Agent. [→ clawhost.geniok.ru](https://clawhost.geniok.ru)
+🔹 [**rkdash**](https://github.com/geniok1980/rkdash) — Аналитическая система для Rkeeper с AI-агентами: дашборды, чат с БД, план/факт. [→ rkdash.geniok.ru](https://rkdash.geniok.ru)
+🔹 [**ai-photostudio**](https://github.com/geniok1980/ai-photostudio) — AI фотостудия: генерация фото и видео через Gemini/Veo. Turborepo, Bun, Hono.js, React + Vite
+🔹 **dashboard** — Универсальная панель управления и мониторинга
 
 ---
 

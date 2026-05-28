@@ -1,5 +1,7 @@
 ### Привет, я Евгений 👋
 
+🔗 **Сайт:** [geniok.ru](https://geniok.ru) — мои проекты и сервисы
+
 Автоматизирую кафе, бары и рестораны на rkeeper и iiko, разрабатываю торговых ботов, строю дашборды и аналитику, внедряю системы лояльности и решаю сложные технические задачи.
 
 ---
@@ -63,6 +65,7 @@
 
 ### 📬 Контакты
 
+[![Website](https://img.shields.io/badge/-geniok.ru-7C5CFC?style=flat-square&logo=google-chrome&logoColor=white)](https://geniok.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/geniok)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/geniok1980)
 

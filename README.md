@@ -45,11 +45,15 @@
 
 ### 📌 Проекты
 
-🔹 [**clawhost**](https://github.com/geniok1980/clawhost) — Платформа для одно-кликовой деплоймента OpenClaw и Hermes Agent. [→ clawhost.geniok.ru](https://clawhost.geniok.ru)
-🔹 [**rkdash**](https://github.com/geniok1980/rkdash) — Аналитическая система для Rkeeper с AI-агентами: дашборды, чат с БД, план/факт. [→ rkdash.geniok.ru](https://rkdash.geniok.ru)
-🔹 [**FreqDash**](https://github.com/geniok1980/freqwebui-free) — Multi-Bot Dashboard для Freqtrade: управление несколькими ботами, аналитика, мониторинг
-🔹 [**ai-photostudio**](https://github.com/geniok1980/ai-photostudio) — AI фотостудия: генерация фото и видео через Gemini/Veo. Turborepo, Bun, Hono.js, React + Vite
-🔹 **dashboard** — Универсальная панель управления и мониторинга
+| Проект | Что это | Стек / Интеграции |
+|---|---|---|
+| 🔹 [**RKDash — rkdash.com**](https://rkdash.com) · [GitHub](https://github.com/geniok1980/rkdash) | AI-аналитика для ресторанов на **r_keeper 7** и **iiko**. 5 цифровых сотрудников отвечают на русском: «Сколько продали вчера? Где фудкост улетел? Что заказать на завтра?» — дашборды, чат с БД без SQL, план/факт, фудкост, ABC, прогноз спроса. Подключение ETL за 1 день. 47 ресторанов, тариф от 4 990 ₽. | Next.js 16 · TypeScript · Mastra AI · Hermes · SQLite · r_keeper / iiko · MCP |
+| 🔹 [**FreqDash — freqdash.com**](https://freqdash.com) · [GitHub](https://github.com/geniok1980/freqwebui-free) | Панель управления флотом **Freqtrade**-ботов. Единый экран вместо десятка терминалов: PnL/equity/winrate по каждому боту, серверы (локальный Docker + внешние по SSH), бэктесты и гиперопт в изолированных контейнерах, авто-деплой, узлы-агенты (pull-модель), алерты. Binance/Bybit/OKX/Gate. | Next.js · Python · Freqtrade · Docker · TA-Lib · Caddy |
+| 🔹 [**Hermes AI — hermes.freqdash.com**](https://hermes.freqdash.com) | Твой личный AI-помощник 24/7 **на своём сервере** («домике»). Личная память только про тебя, голос и липсинк-аватар, плагин для браузера + Telegram, магазин навыков. 89 тарифов (DE-1 от 680 ₽, хит DE-2 1 120 ₽, HI-LOAD 3 660 ₽), локации DE/FI/SE/NL. Разворот 3–7 мин, оплата СБП/карта/BTC·ETH·USDT·LTC/бонусы, партнёрка 10%. | Hermes Agent · LiveKit · Docker · Caddy · Cloudflare |
+| 🔹 [**SaaS MCP — mcp.rkdash.com**](https://mcp.rkdash.com) | Платформа **MCP-серверов** для бизнеса — единый шлюз к учётным системам. Подключает r_keeper, iiko, StoreHouse, СБИС, Диадок, Честный ЗНАК, ОФД, 1С, Битрикс24, Pyrus, ProBonus и др. к AI-агентам (Mastra/Hermes). Панель: клиенты, доступы, токены, журнал вызовов (`tools/list` → `tools/call`). В RKDash — «Настройки → MCP-серверы». | TypeScript · MCP JSON-RPC · saasmcp gateway (`/mcp/<service>`) |
+| 🔹 [**AIChat — aichat.freqdash.com**](https://aichat.freqdash.com) | **Цифровой сотрудник для сайта** — аватар-консультант с 3D-липсинком. Настраиваешь внешность, характер и базу знаний (текст/файлы), вставляешь один `<script>` на Tilda/WP/React/Bitrix — отвечает клиентам 24/7 текстом и голосом. История диалогов, белый список доменов, аналитика воронки. От 1 990 ₽/мес, пробный 7 дней. | Next.js · Mastra · LiveKit TTS · Widget JS |
+
+> Также: [**ClawHost**](https://github.com/geniok1980/clawhost) — one-click деплой OpenClaw/Hermes ([clawhost.geniok.ru](https://clawhost.geniok.ru)) · **AI Photostudio** — генерация фото/видео Gemini/Veo (Turborepo/Bun/Hono)
 
 ---
 

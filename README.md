@@ -53,8 +53,6 @@
 | 🔹 [**SaaS MCP — mcp.rkdash.com**](https://mcp.rkdash.com) | Платформа **MCP-серверов** для бизнеса — единый шлюз к учётным системам. Подключает r_keeper, iiko, StoreHouse, СБИС, Диадок, Честный ЗНАК, ОФД, 1С, Битрикс24, Pyrus, ProBonus и др. к AI-агентам (Mastra/Hermes). Панель: клиенты, доступы, токены, журнал вызовов (`tools/list` → `tools/call`). В RKDash — «Настройки → MCP-серверы». | TypeScript · MCP JSON-RPC · saasmcp gateway (`/mcp/<service>`) |
 | 🔹 [**AIChat — aichat.freqdash.com**](https://aichat.freqdash.com) | **Цифровой сотрудник для сайта** — аватар-консультант с 3D-липсинком. Настраиваешь внешность, характер и базу знаний (текст/файлы), вставляешь один `<script>` на Tilda/WP/React/Bitrix — отвечает клиентам 24/7 текстом и голосом. История диалогов, белый список доменов, аналитика воронки. От 1 990 ₽/мес, пробный 7 дней. | Next.js · Mastra · LiveKit TTS · Widget JS |
 
-> Также: [**ClawHost**](https://github.com/geniok1980/clawhost) — one-click деплой OpenClaw/Hermes ([clawhost.geniok.ru](https://clawhost.geniok.ru)) · **AI Photostudio** — генерация фото/видео Gemini/Veo (Turborepo/Bun/Hono)
-
 ---
 
 ### 📊 Статистика

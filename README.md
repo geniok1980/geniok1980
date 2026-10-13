@@ -56,6 +56,27 @@
 
 ---
 
+---
+
+### 🧩 Open source для Hermes Agent
+
+[![Hermes plugin catalog](https://img.shields.io/badge/Hermes-plugin_catalog-4B8BBE?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://hermes-agent.nousresearch.com/docs/plugins/hermes-mobile)
+[![npm](https://img.shields.io/npm/v/hermes-mobile-client?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/hermes-mobile-client)
+[![License: MIT](https://img.shields.io/badge/license-MIT-3DA639?style=flat-square)](https://github.com/geniok1980/hermes-mobile-adapter/blob/main/LICENSE)
+[![Docs](https://img.shields.io/badge/docs-mkdocs--material-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)](https://geniok1980.github.io/hermes-mobile-adapter/)
+
+**Hermes Mobile Adapter** — платформенный адаптер, который подключает **своё мобильное приложение** к Hermes Agent напрямую по WebSocket: без второго бэкенда и дублирования истории. В сообщениях, памяти и инструментах агента то же, что в Telegram или CLI, а в приложение возвращаются текст, голос, фото и документы, карточки одобрения опасных команд, стриминг ответов, «печатает…» и состояния аватара (`thinking → speaking → idle`).
+
+Принят в **официальный каталог плагинов Hermes**; SDK и документация открыты под MIT.
+
+| Что | Где |
+|---|---|
+| Установка | `hermes plugins install hermes-mobile` |
+| Карточка в каталоге Hermes | [docs/plugins/hermes-mobile](https://hermes-agent.nousresearch.com/docs/plugins/hermes-mobile) · [страница автора](https://hermes-agent.nousresearch.com/docs/plugins/by/geniok1980) |
+| Репозиторий (адаптер + SDK + примеры) | [geniok1980/hermes-mobile-adapter](https://github.com/geniok1980/hermes-mobile-adapter) |
+| Документация | [сайт на MkDocs Material](https://geniok1980.github.io/hermes-mobile-adapter/) — протокол, справочник SDK, гайды под React Native / Flutter / Swift / Kotlin / веб |
+| SDK | [npm: hermes-mobile-client](https://www.npmjs.com/package/hermes-mobile-client) · Python-клиент в репозитории |
+
 ### 📊 Статистика
 
 <p align="center">

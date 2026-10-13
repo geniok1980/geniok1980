@@ -77,6 +77,20 @@
 | Документация | [сайт на MkDocs Material](https://geniok1980.github.io/hermes-mobile-adapter/) — протокол, справочник SDK, гайды под React Native / Flutter / Swift / Kotlin / веб |
 | SDK | [npm: hermes-mobile-client](https://www.npmjs.com/package/hermes-mobile-client) · Python-клиент в репозитории |
 
+**English version**
+
+**Hermes Mobile Adapter** — a platform adapter that connects *your own* mobile app to **Hermes Agent** directly over WebSocket: no second backend and no duplicated history. Messages land in the same sessions, tools and memory as Telegram or the CLI, and the app receives text, voice, photos and documents back, along with command-approval cards, streamed replies, a typing indicator and avatar states (`thinking → speaking → idle`).
+
+Listed in the **official Hermes plugin catalog**; the adapter, the SDKs and the documentation are open under MIT.
+
+| | |
+|---|---|
+| Install | `hermes plugins install hermes-mobile` |
+| Catalog entry | [docs/plugins/hermes-mobile](https://hermes-agent.nousresearch.com/docs/plugins/hermes-mobile) · [author page](https://hermes-agent.nousresearch.com/docs/plugins/by/geniok1980) |
+| Repository (adapter + SDKs + examples) | [geniok1980/hermes-mobile-adapter](https://github.com/geniok1980/hermes-mobile-adapter) |
+| Documentation | [MkDocs Material site](https://geniok1980.github.io/hermes-mobile-adapter/) — protocol reference, SDK reference, guides for React Native / Flutter / Swift / Kotlin / web |
+| SDK | [npm: hermes-mobile-client](https://www.npmjs.com/package/hermes-mobile-client) · Python client in the repository |
+
 ### 📊 Статистика
 
 <p align="center">
